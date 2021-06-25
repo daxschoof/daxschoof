@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dax, or sometimes PikePutt
-- 👀 I am a Software Engineer, currently working out of Metro Detroit. I have experience in a several fields, AI/ML, .NET framework, databases, and web development, to name a few.
+- 👀 I am a Software Engineer, currently working out of Metro Detroit. I have experience in a several fields, AI/ML, .NET framework, software security, and web development, to name a few.
 - 🌱 I’m currently learning about TensorFlow/Deep Learning and planning on exploring Operating Systems soon.
 - 💞️ I’m looking to collaborate on anything! If you want to create a project with me, send me an email.
 - 📫 How to reach me: my LinkedIn is attached, please don't hesitate to pm me or email me at daxschoof@gmail.com
