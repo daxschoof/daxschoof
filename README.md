@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dax, or sometimes PikePutt
-- 👀 I am a Software Engineer, currently working out of Madison. I have experience in a several fields, AI/ML, web development, software security, and Database Management to name a few.
-- 🌱 I’m currently learning about Interpreters and Steganography.
+- 👀 I am a Software Engineer, currently working out of Atlanta. I have experience in a several fields, AI/ML, web development, software security, and Database Management to name a few.
 - 💞️ I’m looking to collaborate on anything! If you want to create a project with me, send me an email.
 - 📫 How to reach me: my LinkedIn is attached, please don't hesitate to pm me or email me at daxschoof@gmail.com
